@@ -15,4 +15,13 @@ body{
     color: #333;
     background: #fff;
     align-items: center;
+    margin: 0 auto;
+    width: 50%;
+}
+
+@media (min-width: 768px) {
+    body{
+        width: 310px;
+        margin: 0 auto;
+    }
 }
