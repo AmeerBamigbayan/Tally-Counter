@@ -17,6 +17,7 @@ body{
     align-items: center;
     margin: 0 auto;
     width: 50%;
+    text-align: center;
 }
 
 @media (min-width: 768px) {
