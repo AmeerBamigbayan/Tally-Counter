@@ -32,11 +32,15 @@ body{
 .content img{
     height: 30px;
     width: 30px;
-    margin: 50px;
+    margin: 80px;
 }
 
 .content .number{
     font-size: 70px;
+    background-color: #333;
+    color: #fff;
+    padding:0 50px;
+    border-radius: 20px;
 }
 
 .reset{
