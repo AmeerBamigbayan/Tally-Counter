@@ -20,6 +20,11 @@ body{
     text-align: center;
 }
 
+.content img{
+    height: 30px;
+    width: 30px;
+}
+
 @media (min-width: 768px) {
     body{
         width: 310px;
