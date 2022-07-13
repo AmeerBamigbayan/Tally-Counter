@@ -15,9 +15,10 @@ body{
     color: #333;
     background: #fff;
     align-items: center;
-    margin: 0 auto;
+    margin: 70% auto;
     width: 50%;
     text-align: center;
+    overflow: hidden;
 }
 
 h1{
@@ -83,7 +84,7 @@ footer p a{
 @media (min-width: 768px) {
     body{
         width: 310px;
-        margin: 0 auto;
+        margin: 10% auto;
     }
 
     .content img{
