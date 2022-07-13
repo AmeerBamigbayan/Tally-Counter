@@ -39,6 +39,9 @@ body{
     font-size: 70px;
 }
 
+.reset{
+    
+}
 @media (min-width: 768px) {
     body{
         width: 310px;

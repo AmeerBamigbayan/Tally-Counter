@@ -20,3 +20,7 @@ function minusNumber() {
     }
   number.innerHTML = parseInt(counternum) - 1;
 }
+
+function resetNumber() {
+    number.innerHTML = 0;
+}
