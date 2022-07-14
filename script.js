@@ -23,4 +23,5 @@ function minusNumber() {
 
 function resetNumber() {
     number.innerHTML = 0;
+    alert("Reset Successful!");
 }
