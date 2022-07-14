@@ -103,3 +103,17 @@ footer p a{
         margin: 0;
     }
 }
+
+@media (max-width: 375px) {
+    body {
+      margin: 50% auto;
+      width: 50%;
+    }
+  }
+
+  @media (max-width: 765px) {
+    body {
+      margin: 40% auto;
+      width: 50%;
+    }
+  }  
